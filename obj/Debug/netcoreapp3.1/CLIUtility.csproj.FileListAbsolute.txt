@@ -1,0 +1,15 @@
+F:\my-workspace\project1\CLIUtility\bin\Debug\netcoreapp3.1\CLIUtility.exe
+F:\my-workspace\project1\CLIUtility\bin\Debug\netcoreapp3.1\CLIUtility.deps.json
+F:\my-workspace\project1\CLIUtility\bin\Debug\netcoreapp3.1\CLIUtility.runtimeconfig.json
+F:\my-workspace\project1\CLIUtility\bin\Debug\netcoreapp3.1\CLIUtility.runtimeconfig.dev.json
+F:\my-workspace\project1\CLIUtility\bin\Debug\netcoreapp3.1\CLIUtility.dll
+F:\my-workspace\project1\CLIUtility\bin\Debug\netcoreapp3.1\CLIUtility.pdb
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.csprojAssemblyReference.cache
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.AssemblyInfoInputs.cache
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.AssemblyInfo.cs
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.csproj.CoreCompileInputs.cache
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.dll
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.pdb
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.genruntimeconfig.cache
+F:\my-workspace\project1\CLIUtility\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\my-workspace\project1\CLIUtility\obj\Debug\netcoreapp3.1\CLIUtility.csproj.CopyComplete
